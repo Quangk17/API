@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_Learn\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|D:\\C#_Learn\\API\\apitest\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:apitest\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|d:\\c#_learn\\api\\apitest\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:apitest\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|d:\\c#_learn\\api\\apitest\\help\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:apitest\\help\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|d:\\c#_learn\\api\\apitest\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:apitest\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|D:\\C#_Learn\\API\\APITEST\\Model\\Owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:APITEST\\Model\\Owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|D:\\C#_Learn\\API\\apitest\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:apitest\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|D:\\C#_Learn\\API\\apitest\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:apitest\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|D:\\C#_Learn\\API\\apitest\\model\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:apitest\\model\\reviewer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|D:\\C#_Learn\\API\\apitest\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:apitest\\model\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|D:\\C#_Learn\\API\\apitest\\model\\pokemoncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:apitest\\model\\pokemoncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|D:\\C#_Learn\\API\\apitest\\model\\pokemonowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:apitest\\model\\pokemonowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|D:\\C#_Learn\\API\\apitest\\model\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7621EAE5-0208-4A06-BC7C-C6E606AA4D8C}|APITEST\\APITEST.csproj|solutionrelative:apitest\\model\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "APITEST\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "APITEST\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:30:54.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Help\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "APITEST\\Help\\MappingProfiles.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Help\\MappingProfiles.cs",
+              "RelativeToolTip": "APITEST\\Help\\MappingProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T08:30:47.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Model\\Owner.cs",
+              "RelativeDocumentMoniker": "APITEST\\Model\\Owner.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Model\\Owner.cs",
+              "RelativeToolTip": "APITEST\\Model\\Owner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:57:55.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "APITEST\\Model\\Category.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Model\\Category.cs",
+              "RelativeToolTip": "APITEST\\Model\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:57:50.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "APITEST\\Data\\DataContext.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Data\\DataContext.cs",
+              "RelativeToolTip": "APITEST\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:30:43.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reviewer.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Model\\Reviewer.cs",
+              "RelativeDocumentMoniker": "APITEST\\Model\\Reviewer.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Model\\Reviewer.cs",
+              "RelativeToolTip": "APITEST\\Model\\Reviewer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:10:57.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Model\\Review.cs",
+              "RelativeDocumentMoniker": "APITEST\\Model\\Review.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Model\\Review.cs",
+              "RelativeToolTip": "APITEST\\Model\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:10:51.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PokemonCategory.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Model\\PokemonCategory.cs",
+              "RelativeDocumentMoniker": "APITEST\\Model\\PokemonCategory.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Model\\PokemonCategory.cs",
+              "RelativeToolTip": "APITEST\\Model\\PokemonCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:08:53.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PokemonOwner.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Model\\PokemonOwner.cs",
+              "RelativeDocumentMoniker": "APITEST\\Model\\PokemonOwner.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Model\\PokemonOwner.cs",
+              "RelativeToolTip": "APITEST\\Model\\PokemonOwner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:58:42.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Model\\Pokemon.cs",
+              "RelativeDocumentMoniker": "APITEST\\Model\\Pokemon.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Model\\Pokemon.cs",
+              "RelativeToolTip": "APITEST\\Model\\Pokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:58:22.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "APITEST\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "APITEST\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAzwBgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:09:03.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\C#_Learn\\API\\APITEST\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "APITEST\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\C#_Learn\\API\\APITEST\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "APITEST\\Repository\\CategoryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T06:08:59.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
